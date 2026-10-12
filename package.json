@@ -1,7 +1,7 @@
 {
   "name": "commitguide",
   "version": "0.0.0",
-  "description": "A modern starter template for building TypeScript libraries.",
+  "description": "Your interactive guide to better Git commits.",
   "keywords": [
     "library-starter",
     "typescript"
